@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sql.programador3\\source\\repos\\SitioWebPlatzi\\PlatziWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\sql.programador3\\Documents\\SitioWebPlatzi\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "C:\\Users\\sql.programador3\\source\\repos\\SitioWebPlatzi\\PlatziWebsite.csproj",
+      "projectPath": "C:\\Users\\sql.programador3\\Documents\\SitioWebPlatzi\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\sql.programador3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sql.programador3\\source\\repos\\SitioWebPlatzi\\obj\\",
+      "outputPath": "C:\\Users\\sql.programador3\\Documents\\SitioWebPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
