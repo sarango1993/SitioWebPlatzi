@@ -61,7 +61,7 @@ using PlatziWebsite.Models;
             WriteLiteral("    <div class=\"container\" id=\"presentacion\">\r\n        <div class=\"row justify-content-center\">\r\n            <div class=\"col-12 col-md-3\">\r\n                ");
             EndContext();
             BeginContext(201, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "712c36f4f519482387f1ef43c07c9392", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3ee96fa4e33e492b80dbee1a8146af76", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
